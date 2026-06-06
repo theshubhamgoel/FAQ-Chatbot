@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": "2026-06-06T06:44:58.955Z",
+    "query": "when do i get paid?",
+    "matchedFaqId": "faq_005",
+    "score": 0.5,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:45:00.950Z",
+    "query": "where is the closest coffee?",
+    "matchedFaqId": null,
+    "score": 0,
+    "isSuccess": false
+  },
+  {
+    "timestamp": "2026-06-06T06:47:54.129Z",
+    "query": "What is the policy for sick leave?",
+    "matchedFaqId": "faq_002",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:47:58.473Z",
+    "query": "What is the policy for sick leave?",
+    "matchedFaqId": "faq_002",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:48:14.106Z",
+    "query": "How do I apply for annual leave?",
+    "matchedFaqId": "faq_001",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:48:36.712Z",
+    "query": "How do I apply for annual leave?",
+    "matchedFaqId": "faq_001",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:48:40.824Z",
+    "query": "When is salary paid each month?",
+    "matchedFaqId": "faq_005",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:48:58.856Z",
+    "query": "What is the remote work policy?",
+    "matchedFaqId": "faq_007",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:49:00.521Z",
+    "query": "apply leave",
+    "matchedFaqId": "faq_001",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:49:13.497Z",
+    "query": "How can I reset my work email password?",
+    "matchedFaqId": "faq_009",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:49:45.778Z",
+    "query": "How do I download my monthly payslip?",
+    "matchedFaqId": "faq_006",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:49:53.511Z",
+    "query": "How do I request a new laptop or hardware?",
+    "matchedFaqId": "faq_008",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:51:09.478Z",
+    "query": "How to apply for annual leave?",
+    "matchedFaqId": "faq_001",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:53:07.846Z",
+    "query": "How to apply for annual leave?",
+    "matchedFaqId": "faq_001",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:53:30.193Z",
+    "query": "What is the policy for sick leave?",
+    "matchedFaqId": "faq_002",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:53:37.842Z",
+    "query": "Does the company offer a gym or wellness allowance?",
+    "matchedFaqId": "faq_004",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:56:03.447Z",
+    "query": "How to apply for annual leave?",
+    "matchedFaqId": "faq_001",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:56:13.000Z",
+    "query": "What is the policy for sick leave?",
+    "matchedFaqId": "faq_002",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:56:35.502Z",
+    "query": "What is the policy for parental/maternity leave?",
+    "matchedFaqId": "faq_010",
+    "score": 1,
+    "isSuccess": true
+  },
+  {
+    "timestamp": "2026-06-06T06:56:53.796Z",
+    "query": "How do I request a new laptop or hardware?",
+    "matchedFaqId": "faq_008",
+    "score": 1,
+    "isSuccess": true
+  }
+]
