@@ -1,0 +1,160 @@
+[
+  {
+    "id": "faq_001",
+    "category": "Leaves",
+    "question": "How do I apply for annual leave?",
+    "answer": "You can apply for annual leave via the HR portal (Workday) under the 'Time Off' section. Submit your request at least 2 weeks in advance and discuss it with your manager beforehand.",
+    "tags": [
+      "annual leave",
+      "vacation",
+      "time off",
+      "apply leave",
+      "holidays",
+      "personal leave"
+    ],
+    "usefulCount": 1,
+    "notUsefulCount": 0
+  },
+  {
+    "id": "faq_002",
+    "category": "Leaves",
+    "question": "What is the policy for sick leave?",
+    "answer": "All employees are entitled to 12 days of paid sick leave per year. If you are sick for more than 3 consecutive days, you must submit a medical certificate from a registered practitioner to HR.",
+    "tags": [
+      "sick leave",
+      "medical leave",
+      "unwell",
+      "illness",
+      "doctor note",
+      "medical certificate"
+    ],
+    "usefulCount": 1,
+    "notUsefulCount": 0
+  },
+  {
+    "id": "faq_003",
+    "category": "Benefits",
+    "question": "How do I claim my health insurance?",
+    "answer": "To claim medical insurance, log into the insurer portal (MediShield) using your employee ID. Submit the itemized hospital/clinic receipt along with the claim form. Claims are usually processed within 7-10 business days.",
+    "tags": [
+      "health insurance",
+      "medical claim",
+      "insurance claim",
+      "doctor bill",
+      "hospitalization",
+      "reimbursement"
+    ],
+    "usefulCount": 0,
+    "notUsefulCount": 0
+  },
+  {
+    "id": "faq_004",
+    "category": "Benefits",
+    "question": "Does the company offer a gym or wellness allowance?",
+    "answer": "Yes, the company offers a Wellness Allowance of up to $50 per month. You can claim reimbursement for gym memberships, fitness classes, wellness apps, or sporting equipment under the 'Wellness' expense category in Workday.",
+    "tags": [
+      "gym membership",
+      "wellness allowance",
+      "fitness",
+      "sports",
+      "reimbursement",
+      "health benefits"
+    ],
+    "usefulCount": 0,
+    "notUsefulCount": 0
+  },
+  {
+    "id": "faq_005",
+    "category": "Payroll",
+    "question": "When is salary paid each month?",
+    "answer": "Salaries are processed and credited on the 25th of each month. If the 25th falls on a weekend or public holiday, salary will be paid on the preceding business day.",
+    "tags": [
+      "salary date",
+      "payday",
+      "paycheck",
+      "credited",
+      "payroll cycle",
+      "monthly pay"
+    ],
+    "usefulCount": 1,
+    "notUsefulCount": 0
+  },
+  {
+    "id": "faq_006",
+    "category": "Payroll",
+    "question": "How do I download my monthly payslip?",
+    "answer": "Payslips are available on the Workday portal. Navigate to 'Pay' > 'Payslips' to view and download PDF versions of your monthly payslips.",
+    "tags": [
+      "payslip",
+      "pay stub",
+      "download payslip",
+      "salary slip",
+      "workday pay"
+    ],
+    "usefulCount": 0,
+    "notUsefulCount": 0
+  },
+  {
+    "id": "faq_007",
+    "category": "Workplace",
+    "question": "What is the remote work policy?",
+    "answer": "Our current policy allows a hybrid model: up to 2 days of remote work per week, with mandatory in-office presence on Tuesdays and Thursdays. Coordinate your remote days with your team lead.",
+    "tags": [
+      "remote work",
+      "work from home",
+      "wfh",
+      "hybrid model",
+      "office days",
+      "flexible hours"
+    ],
+    "usefulCount": 0,
+    "notUsefulCount": 0
+  },
+  {
+    "id": "faq_008",
+    "category": "IT Support",
+    "question": "How do I request a new laptop or hardware?",
+    "answer": "For hardware upgrades or replacements, open an IT request ticket on the ServiceDesk portal under 'Request Hardware'. Hardware requests require approval from your manager.",
+    "tags": [
+      "request laptop",
+      "hardware upgrade",
+      "computer keyboard",
+      "it ticket",
+      "servicedesk",
+      "monitor"
+    ],
+    "usefulCount": 0,
+    "notUsefulCount": 0
+  },
+  {
+    "id": "faq_009",
+    "category": "IT Support",
+    "question": "How can I reset my work email password?",
+    "answer": "You can reset your Okta password by visiting portal.okta.com and clicking 'Forgot Password'. Alternatively, contact the IT hotline at ext. 4357 or email support@company.com.",
+    "tags": [
+      "reset password",
+      "email access",
+      "okta reset",
+      "password locked",
+      "it helpdesk"
+    ],
+    "usefulCount": 0,
+    "notUsefulCount": 0
+  },
+  {
+    "id": "faq_010",
+    "category": "Leaves",
+    "question": "What is the policy for parental/maternity leave?",
+    "answer": "The company offers 16 weeks of paid maternity leave and 4 weeks of paid paternity leave for eligible employees. Please notify HR and your manager at least 10 weeks before your expected start date.",
+    "tags": [
+      "maternity leave",
+      "paternity leave",
+      "parental leave",
+      "baby birth",
+      "adoption leave",
+      "childcare"
+    ],
+    "usefulCount": 0,
+    "notUsefulCount": 0
+  }
+]

@@ -8,16 +8,19 @@
     "dev:backend": "nodemon --watch server.js server.js",
     "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
     "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "start": "node server.js",
     "test": "node test.js"
   },
   "dependencies": {
-    "express": "^4.19.2",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
   },
   "devDependencies": {
-    "vite": "^5.2.11",
+    "concurrently": "^8.2.2",
+    "gh-pages": "^6.3.0",
     "nodemon": "^3.1.0",
-    "concurrently": "^8.2.2"
+    "vite": "^5.2.11"
   }
 }
